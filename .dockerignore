@@ -1,0 +1,14 @@
+.git
+.gitignore
+*.md
+LICENSE
+.vscode
+node_modules/
+npm-debug.log
+!package.json
+!yarn.lock
+
+npm-debug.log
+Dockerfile*
+docker-compose*
+.dockerignore
